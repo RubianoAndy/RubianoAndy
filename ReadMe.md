@@ -1,15 +1,117 @@
-# 💫 About Me:
-I am an Electronic Engineer with experience in Power BI and programming languages such as Python, HTML, TypeScript, JavaScript, Git, C++, and PHP, applied in frameworks such as Angular (Bootstrap and Tailwind CSS), Laravel, and Django (rest framework and cors headers). I stand out for my ability to learn quickly and my commitment to the responsibilities assumed. In addition, I am characterized by my resilience to challenges, my analytical capacity, and my ability to identify and prioritize urgent tasks. My goal is to provide robust and efficient solutions.
+<!-- Header -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Andy%20Rubiano&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Power%20BI&descSize=18&descAlignY=60" alt="header" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RubianoAndy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/RubianoAndy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RubianoAndy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@RubianoAndy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RubianoAndy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RubianoAndy) 
+<a href="https://github.com/RubianoAndy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+robust+%26+efficient+solutions;Angular+%7C+Laravel+%7C+Django+REST;From+hardware+to+data+to+web+%F0%9F%9A%80;Learning+fast.+Delivering+faster." alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<br/>
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RubianoAndy) 
+![Profile views](https://komarev.com/ghpvc/?username=RubianoAndy&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/RubianoAndy?style=for-the-badge&logo=github&color=203A43)
 
-  
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```text
+👋 Hi! I'm an Electronic Engineer who crossed the line from circuits to code.
+```
+
+- 🔭 I design **full-stack web applications** and **data dashboards** that solve real problems.
+- ⚡ **Fast learner**: I pick up new stacks quickly and take ownership of what I commit to.
+- 🧠 **Analytical mindset**: I identify what matters and prioritize urgent work.
+- 💪 **Resilient** under pressure — challenges are my favorite part of the job.
+- 🎯 **Goal**: deliver robust, efficient and maintainable solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,php,cpp,arduino&theme=dark" alt="languages"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,laravel,django,react,nextjs,nodejs,express&theme=dark" alt="frameworks"/>
+</p>
+
+### Databases, Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,wordpress&theme=dark" alt="tools"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+</p>
+
+---
+
+## 🧩 What I Do
+
+| 🌐 Web Development | 📊 Data & BI | 🔌 Backend & APIs | 🤖 Electronics |
+|:---|:---|:---|:---|
+| Angular + Bootstrap / Tailwind CSS | Interactive Power BI dashboards | REST APIs with Django REST Framework | Arduino & embedded prototyping |
+| Laravel & PHP applications | Data modeling & analysis | JWT authentication, CORS headers | C++ for hardware-level logic |
+| Responsive, modern UIs | SQL Server / MySQL / PostgreSQL | Node.js & Express services | Engineering foundation |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RubianoAndy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubianoAndy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RubianoAndy&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RubianoAndy&theme=onedark&no-frame=true&row=1&column=7" alt="trophies"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RubianoAndy)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@RubianoAndy)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RubianoAndy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/RubianoAndy)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@RubianoAndy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RubianoAndy)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+If something I built helped you, you can support me with a coffee:
+
+<div align="center">
+
+[![PayPal](https://img.shields.io/badge/Donate%20on%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RubianoAndy)
+
+<br/>
+
+> *"Make it work, make it right, make it fast."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" width="100%"/>
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
